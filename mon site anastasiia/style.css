@@ -1,0 +1,32 @@
+h1{
+	color:#9E0606;
+}
+h3{
+	color:#9E0606;
+}
+body{
+	background-image: url("images/daeneris_fon.jpg");
+}
+p{
+	color:white;
+}
+img{
+	max-width:30%; /* Définit une largeur fixe */
+}
+#green{
+	color:red;
+}
+#blak{
+	color: green;
+}
+#tem{
+	color: green;
+}
+#bom{
+	color: red;
+}
+button {
+  background-color: #8A0404;
+  border: 40%;
+  color: black;
+  padding: 20px 250px;
